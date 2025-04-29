@@ -54,6 +54,6 @@ align="left"
 
 📊 Estatísticas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=45786user&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=45786user&theme=tokyonight)
           
           
